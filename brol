@@ -1,0 +1,15 @@
+<div class="sf-grid__wrapper">
+    <div class="sf-grid__container">
+      <div class="sf-grid__row ">
+        <div class="simta" class="sf-grid__column-6">
+         <p>Simta</p>         
+        </div>
+      </div>
+    </div>
+  </div>
+
+    <div class="sf-grid__wrapper">
+    <div class="sf-grid__container">
+      <div class="sf-grid__row ">
+        <div class="hey" class="sf-grid__column-6">
+         <p>hey</p>         

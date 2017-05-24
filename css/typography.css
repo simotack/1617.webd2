@@ -5,15 +5,30 @@ body {
   font-style: normal;
   line-height: 1.42;
 }
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 16px;
-  font-weight: 500;
-  font-style: normal;
-  line-height: 1.42;
+p {
+  font-family: raleway;
+  line-height: 1,90;
 }
-.hallo {
-font-family: raleway;
+h2{
+  font-family: 'futura';
+  font-size: 25px;
+  font-weight: 500;
+  font-style: bold;
+  line-height: 1.42;
+  color: black;
+}
 
+h1{
+  font-family: 'futura';
+  font-size: 79px;
+  font-weight: 500;
+  font-style: bold;
+  line-height: 1.42;
+  color: black;
+  
+}
+
+p quinten simon{
+  text-align: left;
+  margin-left: 30px;
 }

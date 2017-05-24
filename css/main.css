@@ -5,11 +5,93 @@
 html, body {
   margin: 0;
   padding: 0;
+  background-color:lightgray;
+  
+}
+.navigatie ul {
+  position: fixed;
+    top: 0;
+    width: 100%;
+}
+.navigatie li {
+margin-top: 25px;
+list-style: none;
+margin-left: 439px;
 }
 
-.simta{
+.navigatie a { 
+  text-decoration: none;
+  text-transform: uppercase;
+  float: left;
+  padding: 4px;
+  color: black;
+  font-family: raleway;
+  font-size: 28px;
+  margin: 2px;
+  margin-top: 12px;
+}
+
+#actief {
+  color: white;
+}
+
+.navigatie {
+
+width: 1800px;
+margin: left;
+}
+
+.navigatie a:hover {
+  color: darkslategrey;
+  background: white;
+}
+
+#logo {
+  float: left;
+  padding-left: 134px;
+  margin-top: 0px;
+}
+.doen {
+  margin: center;
   text-align: center;
-  color: darkblue;
-  font-size: 70px;
-
+  margin-top: 30px;  
 }
+
+.foto {
+  position: relative;
+}
+
+#icoonwebdesign{
+  float: center;
+  margin-top: -17px;
+}
+
+#icoon_logo {
+  margin-top: -10px;
+}
+
+#icoongraphic {
+  margin-top: -10px;
+}
+
+.tekstheader {
+  font-size: 50px;
+  float: left;
+}
+
+.footer {
+  position: relative;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 40px;
+  background-color: darkgray;
+  text-align: center;
+  
+}
+
+.onsteam {
+  padding: 2px;
+  margin-left: 5px;
+}
+
