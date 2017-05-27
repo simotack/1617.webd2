@@ -8,6 +8,9 @@ body {
 p {
   font-family: raleway;
   line-height: 1,90;
+  text-align:left;
+  color:black;
+  
 }
 h2{
   font-family: 'futura';
@@ -32,3 +35,16 @@ p quinten simon{
   text-align: left;
   margin-left: 30px;
 }
+
+#footer {
+  font-family: raleway;
+  text-align: left;
+  font-size: 15px;
+}
+
+.kader {
+  font-family: raleway;
+  font-size: 40px;
+  text-align: center;
+}
+
