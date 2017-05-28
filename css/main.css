@@ -65,6 +65,10 @@ margin: left;
   position: relative;
 }
 
+#fotoquinten {
+  width: 100%;
+}
+
 #icoonwebdesign{
   float: center;
   margin-top: -17px;
@@ -91,13 +95,22 @@ margin: left;
   padding: 40px;
   background-color: darkgray;
   text-align: center;
-  
+  width: 100%;
 }
 
 .onsteam {
   padding: 2px;
   margin-left: 5px;
 }
+
+#millo {
+  width: 100%;
+}
+
+#fotomama {
+  width: 100%;
+}
+
 
 .grafischontwerp {
   margin-top: 100px;
@@ -153,7 +166,7 @@ margin: left;
 }
 
 .motor {
-  margin-top: 40px;
+  margin-top: 45px;
 }
 
 .folder {
@@ -187,4 +200,3 @@ margin-left: -110px;
 
 margin-top: -100px;
 }
-
